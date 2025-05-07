@@ -1,6 +1,6 @@
-# 🎈 Blank app template
+# 🎈 Weekly Planning
 
-A simple Streamlit app template for you to modify!
+A simple Streamlit Weekly Planning App for you to modify!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
@@ -17,7 +17,8 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
-To use my program, you first need to install various libraries. 
+
+### To use my program, you first need to install various libraries. 
 The libraries are : 
 
 ## 👌 Pandas 
