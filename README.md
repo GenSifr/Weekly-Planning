@@ -17,3 +17,17 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+To use my program, you first need to install various libraries. 
+The libraries are : 
+
+##👌 Pandas 
+1. Install **pandas** in your machine or VSCode
+   ```
+   $ pip install pandas
+   ```
+
+##👌 Openpyxl
+1. Install **openpyxl** in your machine or VSCode
+   ```
+   $ pip install openpyxl
+   ```
