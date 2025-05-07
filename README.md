@@ -20,13 +20,13 @@ A simple Streamlit app template for you to modify!
 To use my program, you first need to install various libraries. 
 The libraries are : 
 
-##👌 Pandas 
+## 👌 Pandas 
 1. Install **pandas** in your machine or VSCode
    ```
    $ pip install pandas
    ```
 
-##👌 Openpyxl
+## 👌 Openpyxl
 1. Install **openpyxl** in your machine or VSCode
    ```
    $ pip install openpyxl
